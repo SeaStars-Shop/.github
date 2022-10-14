@@ -1,3 +1,5 @@
+<a href="https://www.seastars.shop/" title="SeaStars all-natural boutique skin care and bath products made with essential oils, no artificial fragrances"><img src="https://user-images.githubusercontent.com/676428/195881320-376ffbd2-a216-437d-916e-f03818c04159.png" width="300" style="max-width:100%;"></a>
+
 # [SeaStars](https://www.seastars.shop/) all-natural boutique skincare and bath products
 
 ## Our Promise
